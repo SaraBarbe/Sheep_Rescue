@@ -1,0 +1,6 @@
+To improve the game, I have done several things:
+- I have added a count above the screen of the game in order to count how many sheeps are saved and how many sheeps are not rescued. This way you can track the process of the game. 
+- I have also added a heart that appears when the sheep is saved and goes up and rotates. 
+- I also added sound effects when a ship is saved, when a ship is not saved and when the box is throwned. 
+- When the number of sheeps not saved has reached a value, the game stops. 
+- I also added an interface that appears at the start of the game, with two buttons: start, that it can be pressed when we want to start playing, and quit, that goes out from the game window. I also modified the colours of the buttons in order to know when it is pressed or not. 
